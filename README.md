@@ -1,2 +1,2 @@
 # Dio-Games
-Criando um jogo com JavaScript
+Criando um jogos com JavaScript
